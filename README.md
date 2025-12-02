@@ -65,7 +65,7 @@ cd scripts
 python data_generator.py
 ```
 
-- 数据将保存至 `../data` 目录，包含4个CSV文件和1个SQLite数据库
+- 数据将保存至 `../data` 目录
 
 ### 2. 生成图表
 
