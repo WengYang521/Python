@@ -1,0 +1,18 @@
+# 数据生成
+faker==28.1.0
+pandas==2.2.2
+numpy==1.26.4
+sqlite3==2.6.0
+
+# 基础可视化
+matplotlib==3.8.4
+seaborn==0.13.2
+adjustText
+plotly==5.22.0
+pyecharts==2.0.3
+echarts-countries-pypkg==0.1.6
+echarts-china-provinces-pypkg==0.3.0
+echarts-china-cities-pypkg==0.0.9
+
+openpyxl==3.1.5
+xlrd==2.0.1
